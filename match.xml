@@ -1,0 +1,4 @@
+<Response>
+	<Say voice="alice">Sunday Match Grenada vs Miami Power At Brian Piccolo Park South, be in the ground before nine dot thirty am</Say>
+	<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
